@@ -11,7 +11,7 @@ Connect here!
   <img  alt="Yashasvi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <h4>Leetcode :</h4>
-<a href="https://medium.com/@apurvshah2604">
+<a href="https://leetcode.com/yashasvisharma1369/">
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
