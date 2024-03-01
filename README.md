@@ -5,6 +5,16 @@ A Enthusiastic for open source and development eager to contribute, build projec
 
 Let's code and create together! 🚀
 
+Connect here!
+<h4>Linkedin :</h4>
+<a href="https://www.linkedin.com/in/yashasvisharma1369/">
+  <img  alt="Yashasvi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<h4>Leetcode :</h4>
+<a href="https://medium.com/@apurvshah2604">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
+
 - 
 
 <h3 align="left">Languages and Tools:</h3>
